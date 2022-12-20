@@ -24,14 +24,13 @@ public class IfForExamples {
         System.out.println();
 
         //step3
-        char c = 'a';
-        char c2 = '1';
+        a = 100;
+        b = 101;
 
-        a = c;
-        b = c2;
-
-        System.out.println(a);
-        System.out.println(b);
+        char k = (char) a;
+        char c = (char) b;
+        System.out.println(k);
+        System.out.println(c);
 
         System.out.println();
 
