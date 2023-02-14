@@ -1,0 +1,19 @@
+package chapter9.p1;
+
+public class Protection {
+    public String n;
+    public int n_pri = 2;
+    public int n_pro = 3;
+    public int n_pub =4;
+
+    public Protection() {
+        System.out.println("base consructor");
+        System.out.println("n = " + n);
+        System.out.println("n_pri = " + n_pri);
+        System.out.println("n_pro = " + n_pro);
+        System.out.println("n_pub = " + n_pub);
+    }
+
+
+
+}
