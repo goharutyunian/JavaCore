@@ -1,4 +1,6 @@
-package chapter9;
+package chapter9.stackversions;
+
+import chapter9.stackversions.IntStack;
 
 class DynStack implements IntStack {
     private int stck[];

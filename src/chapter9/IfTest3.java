@@ -1,5 +1,9 @@
 package chapter9;
 
+import chapter9.stackversions.DynStack;
+import chapter9.stackversions.FixedStack;
+import chapter9.stackversions.IntStack;
+
 public class IfTest3 {
     public static void main(String[] args) {
         IntStack mystack;

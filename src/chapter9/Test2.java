@@ -1,5 +1,7 @@
 package chapter9;
 
+import chapter9.stackversions.DynStack;
+
 public class Test2 {
         public static void main(String[] args) {
             DynStack mystack1 = new DynStack(5);

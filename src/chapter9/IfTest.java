@@ -1,6 +1,6 @@
 package chapter9;
 
-import sun.font.FontRunIterator;
+import chapter9.stackversions.FixedStack;
 
 public class IfTest {
     public static void main(String[] args) {
