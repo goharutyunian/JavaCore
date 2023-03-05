@@ -1,6 +1,5 @@
 package chapter9.stackversions;
 
-import chapter9.IntStack;
 
 class FixedStack implements IntStack {
     private int stck[];

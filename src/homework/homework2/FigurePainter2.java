@@ -1,6 +1,4 @@
-package homework2;
-
-import com.sun.xml.internal.ws.addressing.WsaActionUtil;
+package homework.homework2;
 
 public class FigurePainter2 {
 
